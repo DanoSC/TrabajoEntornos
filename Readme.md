@@ -23,7 +23,7 @@ Para crear una imagen de nuestro archivo que hemos añadido, usamos el metodo gi
 
 Ahora para poder llevar estas compias quehemos hechas en nuestro repositorio local, poder llevarlas a nuestro repositorio de git hub por eso usamos el comando git remote add origin
 
-![captura imagen remote](Imagenes/remote.png)
+![captura imagen remote](Imagenes/romote.png)
 
 ---
 
