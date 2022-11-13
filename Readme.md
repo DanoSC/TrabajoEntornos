@@ -11,7 +11,7 @@ Crear un directorio con git Bash que ya tenemos instalado en nuestro ordenador, 
 
 Dentro de nuestro directorio, tenemos diferentes archivos los cuales ahora misno no mantiene un seguimiento como podemos ver al usar el git status -s, para ello usamos git add seguido del nombre de nuestro archivor a selecionar, al volver a usar el status podemos ver que ahora ya si lo sigue
 
-![captura imagen add](Imagenes/add.png)
+![captura imagen add](Imagenes/add .png)
 
 ---
 
