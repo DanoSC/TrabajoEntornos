@@ -12,6 +12,7 @@ Ahora usamo el git tag para darle una etiqueta al comit que nosotros creamos opo
 ![captura imagen tag](ImagenesGit/2.jpg)
 
 Esta etiqueta nos permite poder relizar consultas o incluso cambiar de commits de una manera mucho mas facil, ya que solo tenemos que indicar la etiqueta que le hemos puesto en vez de tener que poner el nomber del comis que es una combinacion de numeros y letras dificil de recordar
+
 ---
 
 Ahora podemos ver que se ha relizado en un commit si usamos el comando git show, como vemos en la captura de despues, gracias a las etiquetas puestas anteriormente es mas falcil usar el comando. Pues nos muestra en el show v2 que es nuetro tercer commit del archivo donde se añade al nomber y la fecha, el centro, se observa el nombre del centro en verde, ya que esto es lo que se ha añadido en este committ y el show v1 que es nuestro primer commit solo con el nombre, vemos que muestra en color verde, que es lo que se ha añadido.
