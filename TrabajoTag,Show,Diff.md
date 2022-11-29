@@ -1,7 +1,6 @@
 # Trabajo Entornos de Desarrollo Github y GitLab:
 
-##GitShow
----
+
 
 Aqui podemos observar los diferentes commits que se han realizados sobre nuestro archivo, 
 
